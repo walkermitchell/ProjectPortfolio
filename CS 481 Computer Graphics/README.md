@@ -1,3 +1,10 @@
+# This document describes the graphics libraries that we used in CS 481 Computer Graphics.
+## Most of the items in this folder are libraries and other supporting files for the actual projects.
+## Please open the 'Projects' folder to proceed to the actual projects.
+
+-----------------------------------------------------------------------
+
+
 Essential Math Sample Code
 ==========================
 
