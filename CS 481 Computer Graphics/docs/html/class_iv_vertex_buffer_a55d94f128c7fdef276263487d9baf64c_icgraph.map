@@ -1,0 +1,16 @@
+<map id="IvVertexBuffer::GetVertexCount" name="IvVertexBuffer::GetVertexCount">
+<area shape="rect" id="node1" title=" " alt="" coords="479,141,647,182"/>
+<area shape="rect" id="node2" href="$class_iv_renderer.html#a0f88dcf3370d2aa6c94f6bc9131c6b13" title=" " alt="" coords="273,5,392,32"/>
+<area shape="rect" id="node3" href="$class_iv_linear.html#a72ac628fbdee9beafae0d02b30bf9238" title=" " alt="" coords="235,56,430,83"/>
+<area shape="rect" id="node5" href="$class_iv_catmull_rom.html#ac17e0b9415269ddbda11d5b85ce929c9" title=" " alt="" coords="237,107,428,149"/>
+<area shape="rect" id="node7" href="$class_iv_uniform_b_spline.html#ac3d20ce0fbd1ce5f6b557773c9c58b51" title=" " alt="" coords="247,173,418,214"/>
+<area shape="rect" id="node9" href="$class_iv_bezier.html#af9a2513b9b667c3ad2b2519e99879a8c" title=" " alt="" coords="235,239,431,265"/>
+<area shape="rect" id="node11" href="$class_iv_hermite.html#a35b50bcfd7e61c85401e8368986d484a" title=" " alt="" coords="251,311,415,353"/>
+<area shape="rect" id="node4" href="$class_iv_linear.html#ab823a710c0dac802157c17a79f7a2d71" title=" " alt="" coords="36,56,156,83"/>
+<area shape="rect" id="node6" href="$class_iv_catmull_rom.html#a91051d48d6e5b24bccf3d12a122849a5" title=" " alt="" coords="18,115,174,141"/>
+<area shape="rect" id="node8" href="$class_iv_uniform_b_spline.html#aa3e95e152fa9c12dd5ed372e523c45dc" title=" " alt="" coords="9,180,183,207"/>
+<area shape="rect" id="node10" href="$class_iv_bezier.html#a959e4e6acd42870546d8475d527dbfc6" title=" " alt="" coords="35,235,157,261"/>
+<area shape="rect" id="node12" href="$class_iv_hermite.html#ab0b3cfc7b1ece9d920105ed89d8ce310" title=" " alt="" coords="31,285,161,312"/>
+<area shape="rect" id="node13" href="$class_iv_hermite.html#ac327968522cbfdf194f833073c891267" title=" " alt="" coords="5,336,187,363"/>
+<area shape="rect" id="node14" href="$class_iv_hermite.html#aeb7c5b2de0f5030497f8810ab8f4cfe8" title=" " alt="" coords="11,387,181,413"/>
+</map>

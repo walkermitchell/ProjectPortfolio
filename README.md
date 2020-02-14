@@ -4,4 +4,5 @@ Many of these projects are assignments and labs from classes I've taken at Weste
 I will include a description of the assignment for ease of understanding. I hope you have a wonderful day!
 
 > The only major project that I am not directly including in this repository is my Senior Capstone project, 
-which can be found [here.](https://github.com/walkermitchell/DAD-Bod-Development)
+which can be found [here.](https://github.com/walkermitchell/DAD-Bod-Development) Please understand that it is a work
+in progress until June 2020 at the earliest.

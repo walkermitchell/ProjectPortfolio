@@ -1,0 +1,41 @@
+<map id="IvResourceManager::Destroy" name="IvResourceManager::Destroy">
+<area shape="rect" id="node1" title=" " alt="" coords="843,486,985,527"/>
+<area shape="rect" id="node2" href="$class_iv_linear.html#a48a820e13823ece6e9aac10e395ca1e4" title=" " alt="" coords="643,9,750,36"/>
+<area shape="rect" id="node4" href="$class_iv_catmull_rom.html#a89e02d0d27289325ee7dacb16da87df7" title=" " alt="" coords="625,63,768,89"/>
+<area shape="rect" id="node6" href="$class_iv_uniform_b_spline.html#a0545df67b22775f4eccac222ad199a68" title=" " alt="" coords="617,119,777,145"/>
+<area shape="rect" id="node8" href="$class_iv_bezier.html#a53eb83fe113ed46632ee1c242578f168" title=" " alt="" coords="643,173,751,200"/>
+<area shape="rect" id="node10" href="$class_iv_hermite.html#a0c1574744790b099c16d5289ddc6a88a" title=" " alt="" coords="639,224,755,251"/>
+<area shape="rect" id="node12" href="$_iv_renderer_help_8cpp.html#a4585b2bde49c29e26822addffd8d4bdf" title=" " alt="" coords="646,275,747,301"/>
+<area shape="rect" id="node15" href="$_iv_graphics_2_iv_renderer_help_8h.html#ac5279dcd6128f9f9c0dc8ac4a459b665" title=" " alt="" coords="5,300,112,327"/>
+<area shape="rect" id="node16" href="$class_iv_indexed_geometry.html#a93c95bf666cf4c23b3b1175baed0ab9b" title=" " alt="" coords="627,377,767,418"/>
+<area shape="rect" id="node20" href="$_iv_graphics_2_iv_renderer_help_8h.html#a31c25bf8546de9c43fe67333ca70594c" title=" " alt="" coords="605,443,789,469"/>
+<area shape="rect" id="node21" href="$_iv_graphics_2_iv_renderer_help_8h.html#ac40e002e46f730f72c03ece07254e902" title=" " alt="" coords="655,493,738,520"/>
+<area shape="rect" id="node24" href="$_iv_graphics_2_iv_renderer_help_8h.html#a66314c0eaf75c403987327cf7df10779" title=" " alt="" coords="627,544,766,571"/>
+<area shape="rect" id="node25" href="$_iv_graphics_2_o_g_l_2_iv_renderer_help_o_g_l_8h.html#a6453bcc9251810deda7b74de4cfb3370" title=" " alt="" coords="653,595,741,621"/>
+<area shape="rect" id="node26" href="$_iv_graphics_2_iv_renderer_help_8h.html#aefe4ecd3c84b9c323d22000ed307593d" title=" " alt="" coords="647,645,746,672"/>
+<area shape="rect" id="node27" href="$class_iv_linear.html#a72ac628fbdee9beafae0d02b30bf9238" title=" " alt="" coords="599,696,794,723"/>
+<area shape="rect" id="node29" href="$class_iv_catmull_rom.html#ac17e0b9415269ddbda11d5b85ce929c9" title=" " alt="" coords="601,747,792,789"/>
+<area shape="rect" id="node31" href="$class_iv_uniform_b_spline.html#ac3d20ce0fbd1ce5f6b557773c9c58b51" title=" " alt="" coords="611,813,782,854"/>
+<area shape="rect" id="node33" href="$class_iv_bezier.html#af9a2513b9b667c3ad2b2519e99879a8c" title=" " alt="" coords="599,879,795,905"/>
+<area shape="rect" id="node35" href="$class_iv_hermite.html#a35b50bcfd7e61c85401e8368986d484a" title=" " alt="" coords="615,930,779,971"/>
+<area shape="rect" id="node39" href="$namespace_iv_point_renderer_d3_d11.html#a7c0ae8a5c540f1e67b523e95f6fe7c21" title=" " alt="" coords="621,995,772,1037"/>
+<area shape="rect" id="node3" href="$class_iv_linear.html#a84ff059ef23617e2fa504a4b80fdd6cc" title=" " alt="" coords="391,5,515,32"/>
+<area shape="rect" id="node5" href="$class_iv_catmull_rom.html#a208673da5e5b7c1c0544c6a555f713a4" title=" " alt="" coords="355,56,551,83"/>
+<area shape="rect" id="node7" href="$class_iv_uniform_b_spline.html#aab1e525721d1367763e868d2859fa326" title=" " alt="" coords="389,107,516,149"/>
+<area shape="rect" id="node9" href="$class_iv_bezier.html#a3f6fecfa6913a2e0a25a31494b037818" title=" " alt="" coords="389,173,517,200"/>
+<area shape="rect" id="node11" href="$class_iv_hermite.html#a140e31dfe4aade490c21085633ccdead" title=" " alt="" coords="381,224,525,251"/>
+<area shape="rect" id="node13" href="$_iv_graphics_2_iv_renderer_help_8h.html#a4d4a49575557bfba38375ca341ee231f" title=" " alt="" coords="391,275,514,301"/>
+<area shape="rect" id="node14" href="$_iv_graphics_2_iv_renderer_help_8h.html#a6b013d134097b97a8414a86fc3343446" title=" " alt="" coords="183,275,283,301"/>
+<area shape="rect" id="node17" href="$class_iv_indexed_geometry.html#a7bad8761f1ed5b394b0560a0c46fd47a" title=" " alt="" coords="383,377,523,418"/>
+<area shape="rect" id="node19" href="$class_iv_hierarchy.html#a2790fc847297fe3d0bee6c97a138c550" title=" " alt="" coords="371,443,535,469"/>
+<area shape="rect" id="node18" href="$class_iv_hierarchy.html#adb0e1ebab5169a7e2fd43fd59dc25562" title=" " alt="" coords="160,384,307,411"/>
+<area shape="rect" id="node22" href="$_iv_graphics_2_iv_renderer_help_8h.html#a1eefb2d5f438649403a62c7944910326" title=" " alt="" coords="408,493,497,520"/>
+<area shape="rect" id="node23" href="$_iv_graphics_2_iv_renderer_help_8h.html#aabf4aa2302cb1eb8373906ff922a19ba" title=" " alt="" coords="409,544,496,571"/>
+<area shape="rect" id="node28" href="$class_iv_linear.html#ab823a710c0dac802157c17a79f7a2d71" title=" " alt="" coords="393,696,513,723"/>
+<area shape="rect" id="node30" href="$class_iv_catmull_rom.html#a91051d48d6e5b24bccf3d12a122849a5" title=" " alt="" coords="375,755,531,781"/>
+<area shape="rect" id="node32" href="$class_iv_uniform_b_spline.html#aa3e95e152fa9c12dd5ed372e523c45dc" title=" " alt="" coords="365,820,540,847"/>
+<area shape="rect" id="node34" href="$class_iv_bezier.html#a959e4e6acd42870546d8475d527dbfc6" title=" " alt="" coords="391,875,514,901"/>
+<area shape="rect" id="node36" href="$class_iv_hermite.html#ab0b3cfc7b1ece9d920105ed89d8ce310" title=" " alt="" coords="387,925,518,952"/>
+<area shape="rect" id="node37" href="$class_iv_hermite.html#ac327968522cbfdf194f833073c891267" title=" " alt="" coords="362,976,543,1003"/>
+<area shape="rect" id="node38" href="$class_iv_hermite.html#aeb7c5b2de0f5030497f8810ab8f4cfe8" title=" " alt="" coords="367,1027,538,1053"/>
+</map>

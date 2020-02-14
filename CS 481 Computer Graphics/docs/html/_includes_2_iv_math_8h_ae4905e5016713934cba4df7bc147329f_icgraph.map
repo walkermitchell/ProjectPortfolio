@@ -1,0 +1,44 @@
+<map id="IvSqrt" name="IvSqrt">
+<area shape="rect" id="node1" title=" " alt="" coords="997,477,1052,503"/>
+<area shape="rect" id="node2" href="$class_iv_bounding_sphere.html#a01d1449db701b6157849dcac57ff445d" title=" " alt="" coords="763,5,949,47"/>
+<area shape="rect" id="node3" href="$class_iv_capsule.html#a57fcac3b2c61a841e23198dbc46256b4" title=" " alt="" coords="763,71,949,98"/>
+<area shape="rect" id="node4" href="$_iv_math_2_iv_vector3_8h.html#ae1048681cd73aadb4ca2b7e717e937a0" title=" " alt="" coords="819,122,893,149"/>
+<area shape="rect" id="node5" href="$class_iv_quat.html#aabf4ccd6280507776f6cae556659f0d4" title=" " alt="" coords="783,173,929,199"/>
+<area shape="rect" id="node6" href="$class_iv_matrix33.html#ac162ea0006baf34943fc5774c2170eb4" title=" " alt="" coords="772,223,940,250"/>
+<area shape="rect" id="node7" href="$class_iv_matrix44.html#a55c4bccde12e21a1d73755cf307e6f2a" title=" " alt="" coords="772,274,940,301"/>
+<area shape="rect" id="node8" href="$class_iv_matrix33.html#a291c660407002bfd26ffc3cfa76672c9" title=" " alt="" coords="765,325,947,351"/>
+<area shape="rect" id="node9" href="$class_iv_matrix44.html#a01514ce74b2e1a3079981cd3f7075aee" title=" " alt="" coords="765,375,947,402"/>
+<area shape="rect" id="node10" href="$_iv_covariance_8cpp.html#af89676a359fd8e37c5f0f991a4773ab9" title=" " alt="" coords="805,527,907,554"/>
+<area shape="rect" id="node12" href="$class_iv_quat.html#a84ed46ea778e2f7237d70500f7498e9f" title=" " alt="" coords="805,477,907,503"/>
+<area shape="rect" id="node13" href="$_iv_covariance_8cpp.html#acb7940a7854b32dc0499f0abb6e56561" title=" " alt="" coords="763,426,949,453"/>
+<area shape="rect" id="node14" href="$class_iv_vector2.html#a31f9d7b53160ec66e7e62ea7354985c4" title=" " alt="" coords="795,578,917,605"/>
+<area shape="rect" id="node15" href="$class_iv_vector4.html#afb81e46118c9fd0b94431d8e0f488bb2" title=" " alt="" coords="795,629,917,655"/>
+<area shape="rect" id="node16" href="$class_iv_vector3.html#a004117a7d42810e91f3344526bc66998" title=" " alt="" coords="795,679,917,706"/>
+<area shape="rect" id="node36" href="$class_iv_quat.html#af7b1602962e47daf753ba47e2fc0a0af" title=" " alt="" coords="793,730,919,757"/>
+<area shape="rect" id="node37" href="$_iv_bounding_sphere_8cpp.html#a13a48ab6c7e0fdffbf57b5fdc7bef582" title=" " alt="" coords="827,781,885,807"/>
+<area shape="rect" id="node38" href="$class_iv_bounding_sphere.html#a963bfa30fb062bf10c7266203131bc8b" title=" " alt="" coords="779,831,933,858"/>
+<area shape="rect" id="node39" href="$class_iv_capsule.html#a8edab03d6618b4b9dcdf33fc558d9509" title=" " alt="" coords="803,882,909,909"/>
+<area shape="rect" id="node42" href="$class_iv_quat.html#a2cd7e3ae810cbbfe96a8d72dcb466309" title=" " alt="" coords="813,933,899,959"/>
+<area shape="rect" id="node11" href="$_iv_collision_2_iv_covariance_8h.html#a6f302d8dce208e04dc4d22044f4ec058" title=" " alt="" coords="500,333,715,359"/>
+<area shape="rect" id="node17" href="$_iv_math_2_iv_triangle_8h.html#ad3d7ee159780f7719e4ce07a54a9517c" title=" " alt="" coords="529,578,686,605"/>
+<area shape="rect" id="node18" href="$class_iv_catmull_rom.html#a0a7e75f0ed084ec2c94ef6a3b06d0baf" title=" " alt="" coords="14,907,209,948"/>
+<area shape="rect" id="node19" href="$class_iv_uniform_b_spline.html#affa3d6e83e87de735148e2eff63dd1e2" title=" " alt="" coords="5,427,217,468"/>
+<area shape="rect" id="node20" href="$class_iv_bezier.html#a0e58b475415ba24f4bcf116232f07c11" title=" " alt="" coords="519,731,695,772"/>
+<area shape="rect" id="node21" href="$class_iv_hermite.html#aff73468586b34873c2bc234c8a6b90a9" title=" " alt="" coords="27,705,195,747"/>
+<area shape="rect" id="node22" href="$_iv_graphics_2_iv_renderer_help_8h.html#ac5279dcd6128f9f9c0dc8ac4a459b665" title=" " alt="" coords="554,847,661,874"/>
+<area shape="rect" id="node23" href="$class_iv_line_segment3.html#a8519e17a594497fa93e2e045590aef06" title=" " alt="" coords="527,797,687,823"/>
+<area shape="rect" id="node25" href="$class_iv_catmull_rom.html#a945c6376835d78c65a02f4ade1cbc286" title=" " alt="" coords="517,899,698,940"/>
+<area shape="rect" id="node28" href="$class_iv_uniform_b_spline.html#ad67d05f2c1065ab4c4483f852f47471b" title=" " alt="" coords="518,477,697,519"/>
+<area shape="rect" id="node31" href="$class_iv_hermite.html#ac9f717ca3f0c0fecc769dcff3b8c62c8" title=" " alt="" coords="510,629,705,655"/>
+<area shape="rect" id="node24" href="$class_iv_capsule.html#aa1360fd4f095e29230fbb8b8e70e1b1f" title=" " alt="" coords="297,797,421,823"/>
+<area shape="rect" id="node26" href="$class_iv_catmull_rom.html#a7e7806986d89ca9e4e90d27448d9a8ac" title=" " alt="" coords="275,863,443,890"/>
+<area shape="rect" id="node27" href="$class_iv_catmull_rom.html#a91051d48d6e5b24bccf3d12a122849a5" title=" " alt="" coords="281,914,437,941"/>
+<area shape="rect" id="node29" href="$class_iv_uniform_b_spline.html#a742e1db3dac7bfd3bf9acb863744253e" title=" " alt="" coords="265,485,452,511"/>
+<area shape="rect" id="node30" href="$class_iv_uniform_b_spline.html#aa3e95e152fa9c12dd5ed372e523c45dc" title=" " alt="" coords="271,434,446,461"/>
+<area shape="rect" id="node32" href="$class_iv_hermite.html#ad91140101b580682137356718356065a" title=" " alt="" coords="287,687,430,714"/>
+<area shape="rect" id="node33" href="$class_iv_hermite.html#ab0b3cfc7b1ece9d920105ed89d8ce310" title=" " alt="" coords="293,586,424,613"/>
+<area shape="rect" id="node34" href="$class_iv_hermite.html#ac327968522cbfdf194f833073c891267" title=" " alt="" coords="268,637,449,663"/>
+<area shape="rect" id="node35" href="$class_iv_hermite.html#aeb7c5b2de0f5030497f8810ab8f4cfe8" title=" " alt="" coords="273,535,444,562"/>
+<area shape="rect" id="node40" href="$class_iv_indexed_geometry.html#a7bad8761f1ed5b394b0560a0c46fd47a" title=" " alt="" coords="537,1016,677,1057"/>
+<area shape="rect" id="node41" href="$class_iv_hierarchy.html#adb0e1ebab5169a7e2fd43fd59dc25562" title=" " alt="" coords="285,1023,432,1050"/>
+</map>

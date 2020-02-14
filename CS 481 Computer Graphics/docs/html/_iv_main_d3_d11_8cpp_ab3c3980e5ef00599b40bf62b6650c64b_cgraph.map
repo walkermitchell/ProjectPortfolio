@@ -1,0 +1,12 @@
+<map id="InitWindow" name="InitWindow">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,91,108"/>
+<area shape="rect" id="node2" href="$_iv_main_d3_d11_8cpp.html#a30a1e3b0304f1b083637664cbda94e72" title=" " alt="" coords="139,81,215,108"/>
+<area shape="rect" id="node3" href="$class_iv_renderer.html#ab0fcfb3c9ecd334152e457f423bc6c4c" title=" " alt="" coords="263,5,399,32"/>
+<area shape="rect" id="node4" href="$_iv_main_d3_d11_8cpp.html#a0708c58891be8f8095b8fa5702dafd8b" title=" " alt="" coords="283,56,378,83"/>
+<area shape="rect" id="node7" href="$_iv_main_d3_d11_8cpp.html#a220f0912e6e90c21189f392e3189cb6c" title=" " alt="" coords="291,107,370,133"/>
+<area shape="rect" id="node10" href="$class_iv_renderer.html#ade1480dd1a65ea7f883f7d68e9be1d9e" title=" " alt="" coords="265,157,396,184"/>
+<area shape="rect" id="node5" href="$class_iv_event_handler.html#ac22d8a2855cdc968a702c538345591aa" title=" " alt="" coords="455,5,641,32"/>
+<area shape="rect" id="node6" href="$class_iv_event_handler.html#a72d05e36cda5045a6bfac34deba2358d" title=" " alt="" coords="463,56,633,83"/>
+<area shape="rect" id="node8" href="$class_iv_event_handler.html#a0474a2014a35d5acdcd66f18e9acc1c7" title=" " alt="" coords="447,107,649,133"/>
+<area shape="rect" id="node9" href="$class_iv_event_handler.html#af3ad34b88c09e07907b235fac51130c5" title=" " alt="" coords="455,157,641,184"/>
+</map>

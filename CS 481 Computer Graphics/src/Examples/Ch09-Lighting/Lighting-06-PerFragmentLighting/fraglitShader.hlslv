@@ -1,0 +1,16 @@
+float4x4 IvModelViewProjectionMatrix;
+struct VS_OUTPUT
+{
+	float4 pos : SV_POSITION;
+	float3 normal : TEXCOORD0;
+};
+
+VS_OUTPUT vs_main( float3 normal : NORMAL, float4 pos : POSITION )
+{
+    VS_OUTPUT Out = (VS_OUTPUT) 0;
+
+    Out.pos = mul(IvModelViewProjectionMatrix, pos);
+    Out.normal = normal;    
+    return Out;
+}
+

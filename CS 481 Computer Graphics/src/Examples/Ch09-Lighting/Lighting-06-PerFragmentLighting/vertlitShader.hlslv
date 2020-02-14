@@ -1,0 +1,25 @@
+// Copyright (C) 2015 by James M. Van Verth and Lars M. Bishop.
+// All rights reserved.
+//
+// Use of this source code is governed by a BSD-style license that can be
+// found in the LICENSE file.
+
+float4x4 IvModelViewProjectionMatrix;
+struct VS_OUTPUT
+{
+	float4 pos : SV_POSITION;
+	float4 color : COLOR0;
+};
+
+float3 dirLightPosition; 
+
+VS_OUTPUT vs_main( float3 normal : NORMAL, float4 pos : POSITION )
+{
+    VS_OUTPUT Out = (VS_OUTPUT) 0;
+
+    Out.pos = mul(IvModelViewProjectionMatrix, pos);
+    float lighting = clamp(dot(normalize(normal), dirLightPosition), 0.0, 1.0); 
+	Out.color = float4(lighting, lighting, lighting, 1.0); 
+    return Out;
+}
+

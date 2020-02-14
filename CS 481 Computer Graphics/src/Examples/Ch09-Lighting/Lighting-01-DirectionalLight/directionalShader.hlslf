@@ -1,0 +1,41 @@
+// Copyright (C) 2015 by James M. Van Verth and Lars M. Bishop.
+// All rights reserved.
+//
+// Use of this source code is governed by a BSD-style license that can be
+// found in the LICENSE file.
+
+float3 dirLightPosition; 
+float3 dirLightRadiance;
+
+struct lightSampleValues
+{
+	float3 L;
+	float iL;
+};
+
+lightSampleValues computeDirLightValues()
+{
+	lightSampleValues values;
+
+	values.L = dirLightPosition.xyz;
+
+	values.iL = dirLightRadiance;
+
+	return values;
+}
+
+struct VS_OUTPUT
+{
+	float4 pos : SV_POSITION;
+	float3 normal : NORMAL;
+};
+
+float4 ps_main( VS_OUTPUT input ) : SV_TARGET
+{
+    VS_OUTPUT Out = (VS_OUTPUT) 0;
+
+	lightSampleValues lightValues = computeDirLightValues();
+
+    float4 color = clamp(dot(input.normal, lightValues.L) * lightValues.iL, 0.0, 1.0);
+    return color;
+}

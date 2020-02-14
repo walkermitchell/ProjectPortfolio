@@ -1,0 +1,12 @@
+<map id="IvHierarchy" name="IvHierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="233,1177,416,1445"/>
+<area shape="rect" id="node2" href="$class_iv_bounding_sphere.html" title=" " alt="" coords="5,628,159,852"/>
+<area shape="rect" id="node3" href="$class_iv_vector3.html" title=" " alt="" coords="133,13,263,266"/>
+<area shape="rect" id="node8" href="$class_iv_line_segment3.html" title=" " alt="" coords="139,365,281,589"/>
+<area shape="rect" id="node9" href="$struct_iv_hierarchy_1_1_transform.html" title=" " alt="" coords="313,439,464,516"/>
+<area shape="rect" id="node4" href="$class_iv_indexed_geometry.html" title=" " alt="" coords="530,883,690,1093"/>
+<area shape="rect" id="node5" href="$class_iv_vertex_buffer.html" title=" " alt="" coords="513,351,656,604"/>
+<area shape="rect" id="node6" href="$class_iv_index_buffer.html" title=" " alt="" coords="681,373,811,582"/>
+<area shape="rect" id="node7" href="$class_iv_capsule.html" title=" " alt="" coords="204,876,333,1100"/>
+<area shape="rect" id="node10" href="$class_iv_quat.html" title=" " alt="" coords="357,5,463,273"/>
+</map>

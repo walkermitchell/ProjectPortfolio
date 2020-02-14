@@ -1,0 +1,369 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		E4A78CFB23592DDA008F4B37 /* Game.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4A78CF323592DDA008F4B37 /* Game.cpp */; };
+		E4A78CFC23592DDA008F4B37 /* IvEventHandler.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4A78CF423592DDA008F4B37 /* IvEventHandler.cpp */; };
+		E4A78CFD23592DDA008F4B37 /* IvGame.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4A78CF523592DDA008F4B37 /* IvGame.cpp */; };
+		E4A78CFE23592DDA008F4B37 /* IvClock.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4A78CF823592DDA008F4B37 /* IvClock.cpp */; };
+		E4A78CFF23592DDA008F4B37 /* IvMainOGL.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4A78CF923592DDA008F4B37 /* IvMainOGL.cpp */; };
+		E4A78D0023592DDA008F4B37 /* Player.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4A78CFA23592DDA008F4B37 /* Player.cpp */; };
+		E4A78D0323592DF2008F4B37 /* IOKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E4A78D0223592DF2008F4B37 /* IOKit.framework */; };
+		E4A78D0523592DFB008F4B37 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E4A78D0423592DFB008F4B37 /* Foundation.framework */; };
+		E4A78D0723592E03008F4B37 /* AppKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E4A78D0623592E03008F4B37 /* AppKit.framework */; };
+		E4A78D0923592E0B008F4B37 /* CoreVideo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E4A78D0823592E0B008F4B37 /* CoreVideo.framework */; };
+		E4A78D0B23592E12008F4B37 /* OpenGL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E4A78D0A23592E12008F4B37 /* OpenGL.framework */; };
+		E4A78D0D23592E25008F4B37 /* libIvUtility.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E4A78D0C23592E25008F4B37 /* libIvUtility.a */; };
+		E4A78D0F23592E31008F4B37 /* libIvMath.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E4A78D0E23592E31008F4B37 /* libIvMath.a */; };
+		E4A78D1123592E41008F4B37 /* libIvGraphics.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E4A78D1023592E40008F4B37 /* libIvGraphics.a */; };
+		E4A78D1323592F24008F4B37 /* libglfw3.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E4A78D1223592F24008F4B37 /* libglfw3.a */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		E4A78CE723592D7C008F4B37 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		E4A78CE923592D7C008F4B37 /* Lab1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Lab1; sourceTree = BUILT_PRODUCTS_DIR; };
+		E4A78CF323592DDA008F4B37 /* Game.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Game.cpp; sourceTree = "<group>"; };
+		E4A78CF423592DDA008F4B37 /* IvEventHandler.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = IvEventHandler.cpp; sourceTree = "<group>"; };
+		E4A78CF523592DDA008F4B37 /* IvGame.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = IvGame.cpp; sourceTree = "<group>"; };
+		E4A78CF623592DDA008F4B37 /* Player.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Player.h; sourceTree = "<group>"; };
+		E4A78CF723592DDA008F4B37 /* Game.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Game.h; sourceTree = "<group>"; };
+		E4A78CF823592DDA008F4B37 /* IvClock.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = IvClock.cpp; sourceTree = "<group>"; };
+		E4A78CF923592DDA008F4B37 /* IvMainOGL.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = IvMainOGL.cpp; sourceTree = "<group>"; };
+		E4A78CFA23592DDA008F4B37 /* Player.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Player.cpp; sourceTree = "<group>"; };
+		E4A78D0223592DF2008F4B37 /* IOKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = IOKit.framework; path = System/Library/Frameworks/IOKit.framework; sourceTree = SDKROOT; };
+		E4A78D0423592DFB008F4B37 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		E4A78D0623592E03008F4B37 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		E4A78D0823592E0B008F4B37 /* CoreVideo.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreVideo.framework; path = System/Library/Frameworks/CoreVideo.framework; sourceTree = SDKROOT; };
+		E4A78D0A23592E12008F4B37 /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = System/Library/Frameworks/OpenGL.framework; sourceTree = SDKROOT; };
+		E4A78D0C23592E25008F4B37 /* libIvUtility.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libIvUtility.a; path = ../../src/common/Libs/OSXDebug/libIvUtility.a; sourceTree = "<group>"; };
+		E4A78D0E23592E31008F4B37 /* libIvMath.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libIvMath.a; path = ../../src/common/Libs/OSXDebug/libIvMath.a; sourceTree = "<group>"; };
+		E4A78D1023592E40008F4B37 /* libIvGraphics.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libIvGraphics.a; path = ../../src/common/Libs/OSXDebug/libIvGraphics.a; sourceTree = "<group>"; };
+		E4A78D1223592F24008F4B37 /* libglfw3.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libglfw3.a; path = "../../src/glfw-3.1.1/lib-MacOS-10.8/libglfw3.a"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		E4A78CE623592D7C008F4B37 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E4A78D1323592F24008F4B37 /* libglfw3.a in Frameworks */,
+				E4A78D1123592E41008F4B37 /* libIvGraphics.a in Frameworks */,
+				E4A78D0F23592E31008F4B37 /* libIvMath.a in Frameworks */,
+				E4A78D0D23592E25008F4B37 /* libIvUtility.a in Frameworks */,
+				E4A78D0B23592E12008F4B37 /* OpenGL.framework in Frameworks */,
+				E4A78D0923592E0B008F4B37 /* CoreVideo.framework in Frameworks */,
+				E4A78D0723592E03008F4B37 /* AppKit.framework in Frameworks */,
+				E4A78D0523592DFB008F4B37 /* Foundation.framework in Frameworks */,
+				E4A78D0323592DF2008F4B37 /* IOKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		E4A78CE023592D7C008F4B37 = {
+			isa = PBXGroup;
+			children = (
+				E4A78CEB23592D7C008F4B37 /* Lab1 */,
+				E4A78CEA23592D7C008F4B37 /* Products */,
+				E4A78D0123592DF2008F4B37 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		E4A78CEA23592D7C008F4B37 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E4A78CE923592D7C008F4B37 /* Lab1 */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		E4A78CEB23592D7C008F4B37 /* Lab1 */ = {
+			isa = PBXGroup;
+			children = (
+				E4A78CF323592DDA008F4B37 /* Game.cpp */,
+				E4A78CF723592DDA008F4B37 /* Game.h */,
+				E4A78CF823592DDA008F4B37 /* IvClock.cpp */,
+				E4A78CF423592DDA008F4B37 /* IvEventHandler.cpp */,
+				E4A78CF523592DDA008F4B37 /* IvGame.cpp */,
+				E4A78CF923592DDA008F4B37 /* IvMainOGL.cpp */,
+				E4A78CFA23592DDA008F4B37 /* Player.cpp */,
+				E4A78CF623592DDA008F4B37 /* Player.h */,
+			);
+			path = Lab1;
+			sourceTree = "<group>";
+		};
+		E4A78D0123592DF2008F4B37 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				E4A78D1223592F24008F4B37 /* libglfw3.a */,
+				E4A78D1023592E40008F4B37 /* libIvGraphics.a */,
+				E4A78D0E23592E31008F4B37 /* libIvMath.a */,
+				E4A78D0C23592E25008F4B37 /* libIvUtility.a */,
+				E4A78D0A23592E12008F4B37 /* OpenGL.framework */,
+				E4A78D0823592E0B008F4B37 /* CoreVideo.framework */,
+				E4A78D0623592E03008F4B37 /* AppKit.framework */,
+				E4A78D0423592DFB008F4B37 /* Foundation.framework */,
+				E4A78D0223592DF2008F4B37 /* IOKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		E4A78CE823592D7C008F4B37 /* Lab1 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E4A78CF023592D7C008F4B37 /* Build configuration list for PBXNativeTarget "Lab1" */;
+			buildPhases = (
+				E4A78CE523592D7C008F4B37 /* Sources */,
+				E4A78CE623592D7C008F4B37 /* Frameworks */,
+				E4A78CE723592D7C008F4B37 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Lab1;
+			productName = Lab1;
+			productReference = E4A78CE923592D7C008F4B37 /* Lab1 */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		E4A78CE123592D7C008F4B37 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1030;
+				ORGANIZATIONNAME = "Scot Morse";
+				TargetAttributes = {
+					E4A78CE823592D7C008F4B37 = {
+						CreatedOnToolsVersion = 10.3;
+					};
+				};
+			};
+			buildConfigurationList = E4A78CE423592D7C008F4B37 /* Build configuration list for PBXProject "Lab1" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = E4A78CE023592D7C008F4B37;
+			productRefGroup = E4A78CEA23592D7C008F4B37 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				E4A78CE823592D7C008F4B37 /* Lab1 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		E4A78CE523592D7C008F4B37 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E4A78CFF23592DDA008F4B37 /* IvMainOGL.cpp in Sources */,
+				E4A78CFD23592DDA008F4B37 /* IvGame.cpp in Sources */,
+				E4A78D0023592DDA008F4B37 /* Player.cpp in Sources */,
+				E4A78CFC23592DDA008F4B37 /* IvEventHandler.cpp in Sources */,
+				E4A78CFB23592DDA008F4B37 /* Game.cpp in Sources */,
+				E4A78CFE23592DDA008F4B37 /* IvClock.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		E4A78CEE23592D7C008F4B37 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = (
+					../../src/common/IvGraphics,
+					"../../src/glfw-3.1.1/include",
+					../../src/common/IvUtility,
+					../../src/common/IvMath,
+					../../src/common/IvEngine,
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		E4A78CEF23592D7C008F4B37 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = (
+					../../src/common/IvGraphics,
+					"../../src/glfw-3.1.1/include",
+					../../src/common/IvUtility,
+					../../src/common/IvMath,
+					../../src/common/IvEngine,
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		E4A78CF123592D7C008F4B37 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				LIBRARY_SEARCH_PATHS = (
+					../../src/common/Libs/OSXDebug,
+					"../../src/glfw-3.1.1/lib-MacOS-10.8",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		E4A78CF223592D7C008F4B37 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				LIBRARY_SEARCH_PATHS = (
+					../../src/common/Libs/OSXDebug,
+					"../../src/glfw-3.1.1/lib-MacOS-10.8",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E4A78CE423592D7C008F4B37 /* Build configuration list for PBXProject "Lab1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E4A78CEE23592D7C008F4B37 /* Debug */,
+				E4A78CEF23592D7C008F4B37 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E4A78CF023592D7C008F4B37 /* Build configuration list for PBXNativeTarget "Lab1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E4A78CF123592D7C008F4B37 /* Debug */,
+				E4A78CF223592D7C008F4B37 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E4A78CE123592D7C008F4B37 /* Project object */;
+}

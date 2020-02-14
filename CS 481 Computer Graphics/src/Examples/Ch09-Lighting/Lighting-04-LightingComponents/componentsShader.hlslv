@@ -1,0 +1,30 @@
+// Copyright (C) 2015 by James M. Van Verth and Lars M. Bishop.
+// All rights reserved.
+//
+// Use of this source code is governed by a BSD-style license that can be
+// found in the LICENSE file.
+
+float4x4 IvModelViewProjectionMatrix;
+float4x4 IvNormalMatrix;
+float4x4 modelMatrix;
+float3   viewPosition;   // in world space
+
+struct VS_OUTPUT
+{
+	float4 pos : SV_POSITION;
+	float3 worldPos : TEXCOORD0;
+	float3 normal : NORMAL;
+	float3 viewDir : TEXCOORD1;
+};
+
+VS_OUTPUT vs_main( float3 normal : NORMAL, float4 pos : POSITION )
+{
+    VS_OUTPUT Out = (VS_OUTPUT) 0;
+
+    Out.pos = mul(IvModelViewProjectionMatrix, pos);
+	Out.worldPos = (float3)(mul(modelMatrix, pos));
+    Out.normal = (float3)(mul(IvNormalMatrix, float4(normal, 0)));
+	Out.viewDir = viewPosition - Out.worldPos;
+
+    return Out;
+}

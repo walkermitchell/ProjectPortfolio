@@ -1,0 +1,12 @@
+<map id="IvGame::Update" name="IvGame::Update">
+<area shape="rect" id="node1" title=" " alt="" coords="5,183,120,209"/>
+<area shape="rect" id="node2" href="$class_iv_game.html#abd595c7934c4206b5f91baa77857d64d" title=" " alt="" coords="198,5,317,32"/>
+<area shape="rect" id="node3" href="$class_iv_clock.html#a05d6d85da7c6c8bb0f2a942d3054a336" title=" " alt="" coords="174,56,341,83"/>
+<area shape="rect" id="node4" href="$class_iv_event_handler.html#a0e24f73663cacc2b7bd3e4996d536ef2" title=" " alt="" coords="168,107,347,133"/>
+<area shape="rect" id="node5" href="$class_iv_game.html#a615d72cad26b62d5ace0ed712046a250" title=" " alt="" coords="209,157,306,184"/>
+<area shape="rect" id="node6" href="$class_iv_stack_allocator.html#a4b97e69dfb5010bf68165cc7b5416e77" title=" " alt="" coords="179,208,336,235"/>
+<area shape="rect" id="node7" href="$class_iv_clock.html#af42d2858b8531b7d95cbeefb3659306e" title=" " alt="" coords="201,259,313,285"/>
+<area shape="rect" id="node9" href="$class_iv_event_handler.html#adbe990d5a3e0b0c414e5b30dcc5dd64e" title=" " alt="" coords="180,309,335,336"/>
+<area shape="rect" id="node10" href="$class_iv_game.html#a10f9d6085583b6c33c94d1bf0cff623f" title=" " alt="" coords="178,360,337,387"/>
+<area shape="rect" id="node8" href="$_includes_2_iv_clock_8h.html#a5be14e62e8ae007acccc156705998515" title=" " alt="" coords="395,259,465,285"/>
+</map>

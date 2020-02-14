@@ -1,0 +1,21 @@
+// Copyright (C) 2015 by James M. Van Verth and Lars M. Bishop.
+// All rights reserved.
+//
+// Use of this source code is governed by a BSD-style license that can be
+// found in the LICENSE file.
+
+float scale;
+SAMPLER_2D(Texture);
+
+struct VS_OUTPUT
+{
+	float4 pos : SV_POSITION;
+	float4 color : COLOR0;
+	float2 uv : TEXCOORD0;
+};
+
+float4 ps_main( VS_OUTPUT input ) : SV_TARGET
+{
+	float4 test = clamp(TEXTURE(Texture, input.uv) * scale, 0.0, 1.0);
+	return test;
+}
